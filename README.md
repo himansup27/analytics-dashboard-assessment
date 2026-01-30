@@ -1,7 +1,7 @@
 # MapUp - Electric Vehicle Analytics Dashboard
 
 ## 🚀 Live Dashboard
-**[View Live Dashboard](#)** *(Replace with your deployment URL)*
+**[View Live Dashboard](https://analytics-dashboard-assessment-qhmvw8y93.vercel.app/)** *(Replace with your deployment URL)*
 
 ---
 
